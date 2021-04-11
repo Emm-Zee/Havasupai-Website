@@ -1,2 +1,2 @@
 # Havasupai-Website
-HTML, CSS, Javascript website about my backpacking trip to Havasupai Falls.
+Final project for CIT180. HTML, CSS, and Javascript. Website about backpacking to Havasupai Falls.
